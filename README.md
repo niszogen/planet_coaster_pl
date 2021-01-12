@@ -1,7 +1,7 @@
 ## Ogólne
 
-Ostatnie najaktualniejsze tłumaczenie pobrane z:
-http://cdn.gulpeyrex.com/communitytranslations/sourcedata/1.1.1/StringData.xml
+Najnowsza wersja tłumaczenia:
+https://raw.githubusercontent.com/niszogen/planet_coaster_pl/master/pl.xml
 
 ## Uruchomienie
 
